@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #96be25;
+    border-radius: 0;
+}
+.navbar-brand {
+    color: #ffffff;
+}
+#nav-list a {
+    color: #ffffff;
+}
+#nav-list a:hover {
+    color: #000000;
+    background-color: #ffffff;
+}
+.icon-bar {
+    background-color: #fff;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+p {
+    margin-bottom: 0;
+}
+.blocks {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+#chicken, #beef, #sushi {
+    margin-bottom: 20px;
+    background-color: #999999;
+    padding: 10px 10px 10px 10px;
+}
